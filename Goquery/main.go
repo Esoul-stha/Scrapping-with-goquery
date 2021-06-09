@@ -40,6 +40,7 @@ func main() {
 
 		// fmt.Printf("%T\n", numbers)
 		name, _ := s.Html()
+		// print all name and numbers
 		fmt.Println(name, numbers)
 	})
 
